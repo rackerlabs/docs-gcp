@@ -65,5 +65,5 @@ Google Organization Permissions
 
 Rackspace will also add our
 ``automation@rackspace-mgcp.iam.gserviceaccount.com`` service account with
-the Project Creator role on your Google organization, allowing both you and
-us to create additional projects for new applications, as needed.
+the Project Creator role on your Google organization, allowing both
+you and us to create additional projects for new applications, as needed.
