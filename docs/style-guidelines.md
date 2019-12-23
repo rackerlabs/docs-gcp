@@ -15,6 +15,7 @@ Follow these guidelines when writing content:
 
 For comprehensive writing and style guidelines, see the [complete style guide for technical content](https://github.com/rackerlabs/docs-rackspace/tree/master/doc/style-guide).
 
+
 ### Use sentence-style capitalization for titles and headings
 
 Use sentence-style capitalization for all titles and headings. In sentence-style capitalization, you capitalize only the first word of the title or heading, plus any proper nouns, proper adjectives, and terms that are always capitalized, such as some acronyms and abbreviations. If the title includes a colon, capitalize the first word that follows the colon, regardless of its part of speech.
