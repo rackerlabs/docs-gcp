@@ -20,8 +20,7 @@ delivers our **Managed Services for Google Cloud Platform** offering.
 For general information on the offering, please visit
 `https://www.rackspace.com/gcp <https://www.rackspace.com/gcp>`_.
 
-To sign up, visit
-`https://cart.rackspace.com/gcp <https://cart.rackspace.com/gcp>`_.
+To sign up, please contact your Rackspace Sales Representative.
 
 .. only:: html
 
